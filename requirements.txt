@@ -1,0 +1,6 @@
+joblib>=0.14.0
+pandas>=0.25.1
+scikit_learn>=0.22.0
+scipy>=1.5.3
+xgboost>=1.7.6
+catboost>=0.24.4
